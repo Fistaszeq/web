@@ -1,0 +1,43 @@
+body, html {
+    background-color: whitesmoke;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    width: 100%;
+    height: 100%;
+    font-size: 1em;
+}
+.upBorder {
+    width: 99%;
+    height: 10%;
+    background-color: black;
+    margin-top: -1.4em;
+    color: white;
+    padding: 1em;
+}
+#logo {
+    width:5em;
+    padding: 1em 90em 1em 0;
+}
+.text {
+    text-align: left;
+    font-size: 25px;
+    margin-left: 1em;
+}
+
+.botBorder {
+    width: 99%;
+    height: 10%;
+    background-color: black;
+    margin-top: -1.4em;
+    color: white;
+    padding: 1em;
+} 
+.botBorder h1 {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.buy {
+    width: 25%;
+    margin: 0 0.2em;
+}
